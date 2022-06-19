@@ -1172,11 +1172,11 @@ POR_2006 = { 2006 2007 2010 2011 } #East Angola
 
 POR_2049 = { 2049 2050 2051 } #Louren�o Marques - Gaza
 
-POR_2053 = { 2053 2055 2059 2065 2054 2056 } #Zambezia
+POR_2053 = { 2055 2054 2056 } #Zambezia
 
-POR_2054 = { 2057 2052 2058 } #Tete - Now Sofala
+POR_2054 = { 2057 2052 2058 2053 } #Tete - Now Sofala
 
-POR_2060 = { 2060 2061 2063 2064 2581 } #Mo�ambique
+POR_2060 = { 2060 2061 2063 2064 2581 2059 2065 } #Mo�ambique
 
 ENG_2067 = { 2067 2066 } #Nyasaland
 
